@@ -1,7 +1,7 @@
 # Hi there, I'm Win Htut Win 👋 
-### Full-Stack Developer & Computer Science Educator 🚀
+### Professional IT Lecturer & Software Engineer 🚀
 
-Passionate Full-Stack Developer and IT Educator with hands-on experience in building scalable web applications and shaping the next generation of tech talent. I specialize in backend architectures (Laravel, Spring Boot, Django) and modern frontend interfaces (React.js).
+Passionate Professional IT Lecturer & Software Engineer with hands-on experience in building scalable web applications and shaping the next generation of tech talent. I specialize in backend architectures (Laravel, Spring Boot, Django) and modern frontend interfaces (React.js).
 
 ---
 
